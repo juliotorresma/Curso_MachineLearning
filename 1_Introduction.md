@@ -31,27 +31,27 @@ In addition, computer programs have been able to beat the best humans in:
 - [Chess](https://www.bbc.com/news/av/world-us-canada-39888639)
 - [Go](https://fortune.com/2016/03/12/googles-go-computer-vs-human/#:~:text=In%20a%20decisive%20step%20forward,of%20Go's%20most%20dominant%20players.)
 
-## Why is Machine Learning now capturing much attention?
+## ¿Por qué el aprendizaje automático ahora está captando tanta atención?
 
-Because there are:
-- A massive amount of data. [See the image](https://www.visualcapitalist.com/every-minute-internet-2020/)
-- Computer resources (hardware) are cheaper, faster, and more powerful
-- Better understanding of algorithms
-- We have platforms to share code (for example, GitHub)
+Porque hay:
+- Una gran cantidad de datos. [Ver imagen] (https://www.visualcapitalist.com/every-minute-internet-2020/)
+- Los recursos informáticos (hardware) son más baratos, más rápidos y más potentes
+- Mejor comprensión de los algoritmos.
+- Tenemos plataformas para compartir código (por ejemplo, GitHub)
 
-## Some concepts
+## Algunos conceptos
 
-![](/images/1_concepts.png)
+! [] (/ images / 1_concepts.png)
 
-- **Artificial Intelligence** is a subfield of computer science. It is the ability of a digital computer to perform tasks commonly associated with intelligent beings.
-- **Machine learning** is a branch of Artificial Intelligence. The goal is turning data into information.
-- **Deep learning** is one kind of machine learning (neural networks) that’s very popular now. It has been given very impressive results. It needs a lot of data and computational resources to work.
-- **Data science** deals with unstructured and structured data. It is a field that comprises everything related to data cleaning, preparation, and analysis. It combines statistics, mathematics, programming, problem-solving, and capturing data in ingenious ways.
-- **Big data** is used to describe immense volumes of data, both unstructured and structured.
+- ** Inteligencia artificial ** es un subcampo de la informática. Es la capacidad de una computadora digital para realizar tareas comúnmente asociadas con seres inteligentes.
+- ** El aprendizaje automático ** es una rama de la inteligencia artificial. El objetivo es convertir los datos en información.
+- ** El aprendizaje profundo ** es un tipo de aprendizaje automático (redes neuronales) que es muy popular ahora. Se han obtenido resultados muy impresionantes. Necesita muchos datos y recursos computacionales para funcionar.
+- ** Ciencia de datos ** se ocupa de datos estructurados y no estructurados. Es un campo que comprende todo lo relacionado con la limpieza, preparación y análisis de datos. Combina estadísticas, matemáticas, programación, resolución de problemas y captura de datos de formas ingeniosas.
+- ** Big data ** se utiliza para describir inmensos volúmenes de datos, tanto estructurados como no estructurados.
 
-## Recent amazing applications with the use of Deep Learning
+## Aplicaciones asombrosas recientes con el uso de Deep Learning
 
-- ImageNet is a challenge that consists of recognizing a target of 1,000 different categories. The dataset is composed of more than 1.2 million images. It had been a difficult problem for computers until 2015, where AI algorithms' results improve human results. The following image shows the error of the challenge over the years.
+- ImageNet es un desafío que consiste en reconocer un target de 1.000 categorías diferentes. El conjunto de datos está compuesto por más de 1,2 millones de imágenes. Había sido un problema difícil para las computadoras hasta 2015, donde los resultados de los algoritmos de IA mejoran los resultados humanos. La siguiente imagen muestra el error del desafío a lo largo de los años.
 
 ![](/images/1_imagenet_error.png)
 
@@ -63,12 +63,12 @@ Because there are:
 - [Art style transfer](https://www.google.com/search?q=art+style+transfer&tbm=isch&ved=2ahUKEwiC3NK_oNjtAhUGTa0KHWapB2cQ2-cCegQIABAA&oq=art+style+transfer&gs_lcp=CgNpbWcQAzIECAAQEzIICAAQBRAeEBMyCAgAEAgQHhATOgQIIxAnOgQIABBDOgUIABCxAzoICAAQsQMQgwE6AggAOgQIABAeOgYIABAFEB46BggAEAgQHlCboAFY27QBYLO2AWgAcAB4AIABnwGIAZ0RkgEEMC4xOJgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=fAHdX4KuOYaatQXm0p64Bg&bih=500&biw=1088&rlz=1C1SQJL_enMX896MX896&safe=strict)
 - [Self driving cars](https://www.google.com/search?q=self+driving+cars&tbm=isch&ved=2ahUKEwjL7sPZoNjtAhUygE4HHSpuAIwQ2-cCegQIABAA&oq=self+driving+cars&gs_lcp=CgNpbWcQAzICCAAyBAgAEB4yBAgAEB4yBAgAEB4yBAgAEB4yBAgAEB4yBAgAEB4yBAgAEB4yBAgAEB4yBAgAEB46BAgjECc6CAgAELEDEIMBOgUIABCxAzoECAAQQzoHCAAQsQMQQ1CRlwFYmKgBYIiqAWgAcAB4AIABf4gBqw-SAQQwLjE3mAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=swHdX4vJDbKAuuoPqtyB4Ag&bih=500&biw=1088&rlz=1C1SQJL_enMX896MX896&safe=strict)
 
-## Types of algorithms in Maching Learning
+## Tipos de algoritmos en Maching Learning
 
-- **Supervised Learning**. It consists of creating models where a variable guides (or several variables guide) the learning process. It is divided into:
-  - **Regression**. It consists of generating a model that can predict a variable's value (or several variables) based on other variables, for example, weather forecasting or grades predictions.
-  - **Classification**. It consists of generating a model that can recognize the category of several samples, for example, image classification, disease diagnosis, digit recognition, or spam detection.
+- **Aprendizaje supervisado**. Consiste en crear modelos donde una variable guía (o varias variables guían) el proceso de aprendizaje. Se divide en:
+  - ** Regresión **. Consiste en generar un modelo que puede predecir el valor de una variable (o varias variables) en base a otras variables, por ejemplo, pronóstico del tiempo o predicciones de calificaciones.
+  - ** Clasificación **. Consiste en generar un modelo que pueda reconocer la categoría de varias muestras, por ejemplo, clasificación de imágenes, diagnóstico de enfermedades, reconocimiento de dígitos o detección de spam.
 
-- **Unsupervised Learning**. It consists of understanding or creating models but with unlabeled data. 
-  - **Clustering**. It consists of grouping the samples based on their characteristics, for example, customer segmentation or recommendation systems based on users' profiles.
-  - **Dimensionality reduction**. It focuses on reducing the number of features or variables to reduce the problem's complexity or to visualize and understand the data.
+- **Aprendizaje sin supervisión**. Consiste en comprender o crear modelos pero con datos sin etiquetar.
+  - ** Agrupación **. Consiste en agrupar las muestras en función de sus características, por ejemplo, segmentación de clientes o sistemas de recomendación en función de perfiles de usuarios.
+  - **Reducción de dimensionalidad**. Se enfoca en reducir la cantidad de características o variables para reducir la complejidad del problema o para visualizar y comprender los datos.
