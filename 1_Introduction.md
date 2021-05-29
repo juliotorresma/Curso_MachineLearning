@@ -66,9 +66,9 @@ Porque hay:
 ## Tipos de algoritmos en Maching Learning
 
 - **Aprendizaje supervisado**. Consiste en crear modelos donde una variable guía (o varias variables guían) el proceso de aprendizaje. Se divide en:
-  - ** Regresión **. Consiste en generar un modelo que puede predecir el valor de una variable (o varias variables) en base a otras variables, por ejemplo, pronóstico del tiempo o predicciones de calificaciones.
-  - ** Clasificación **. Consiste en generar un modelo que pueda reconocer la categoría de varias muestras, por ejemplo, clasificación de imágenes, diagnóstico de enfermedades, reconocimiento de dígitos o detección de spam.
+  - **Regresión**. Consiste en generar un modelo que puede predecir el valor de una variable (o varias variables) en base a otras variables, por ejemplo, pronóstico del tiempo o predicciones de calificaciones.
+  - **Clasificación**. Consiste en generar un modelo que pueda reconocer la categoría de varias muestras, por ejemplo, clasificación de imágenes, diagnóstico de enfermedades, reconocimiento de dígitos o detección de spam.
 
 - **Aprendizaje sin supervisión**. Consiste en comprender o crear modelos pero con datos sin etiquetar.
-  - ** Agrupación **. Consiste en agrupar las muestras en función de sus características, por ejemplo, segmentación de clientes o sistemas de recomendación en función de perfiles de usuarios.
+  - **Agrupación**. Consiste en agrupar las muestras en función de sus características, por ejemplo, segmentación de clientes o sistemas de recomendación en función de perfiles de usuarios.
   - **Reducción de dimensionalidad**. Se enfoca en reducir la cantidad de características o variables para reducir la complejidad del problema o para visualizar y comprender los datos.
